@@ -1,0 +1,83 @@
+h1 {
+	color: #0BF518;
+	font-size: 150px;
+	font-family: 'Black Ops One', system-ui;
+}
+
+
+h2 {
+	color: #09EC00;
+	font-size: 64px;
+	font-weight: 900;
+	font-family: 'Indie Flower', cursive;
+}
+
+body {
+	color: #3FFF51;
+	background-color: #000000;
+	font-family: 'Merienda', cursive;
+	font-size: 40px;
+}
+
+
+
+
+
+
+table {
+	text-align: center;
+	border-width: 5px;
+	border-style: solid;
+	border-color: #76F015;
+	background-color: #000000;
+}
+
+td {
+	background-color: #0DD450;
+	border-width: 1px;
+	border-color: #6BC817;
+	border-style: double;
+	padding: 5px;
+}
+table {
+	color: #06110F;
+}
+img {
+	border-style: solid;
+	border-color: #33FF0B;
+	border-width: 5px;
+	border-radius: 80px;
+}
+
+iframe {
+	border-width: 5px;
+	border-color: #19FB09;
+	border-style: solid;
+	margin: 5px;
+	border-radius: 80px 20px 80px 20px;
+}
+a:link {
+	color: #2BBD13;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+a:decoration {
+	color: #BC28FE;
+}
+a:visited {
+	text-decoration: underline;
+	color: #E311E2;
+}
+
+
+
+
+
+
+
+
+
+
